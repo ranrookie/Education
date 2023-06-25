@@ -563,9 +563,9 @@ function Header() {
   }, "\u5173\u4E8E\u6211\u4EEC"))), /*#__PURE__*/react.createElement("span", null, /*#__PURE__*/react.createElement("strong", null, "135-1634-8525"))))));
 }
 ;// CONCATENATED MODULE: ./src/video/back.mp4
-const back_namespaceObject = __webpack_require__.p + "d1303df7b43b4cb03f49.mp4";
+const back_namespaceObject = __webpack_require__.p + "1558971e7a52eb17b575.mp4";
 ;// CONCATENATED MODULE: ./src/images/ins.jpg
-const ins_namespaceObject = __webpack_require__.p + "ca3ea5633f7127529f6a.jpg";
+const ins_namespaceObject = __webpack_require__.p + "8ebd5979c36994522a25.jpg";
 ;// CONCATENATED MODULE: ./src/banner.js
 
 
